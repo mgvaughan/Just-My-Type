@@ -15,6 +15,7 @@
   width: 15px;
   height: 15px;
   background-color: yellow;
+  left: 10px;
 }
 
 .keyboard-container {
@@ -39,4 +40,8 @@
 
 .glyphicon-remove {
   color : #CD2626
+}
+
+#sentence {
+  flex-direction: column;
 }
